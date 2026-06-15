@@ -1,5 +1,7 @@
 # SkyRyder
 
+https://vian-g.itch.io/skyryder
+
 SkyRyder is a high-fidelity 3D flight experience built in raw WebGL, compressed into just 15KB.
 
 Flight & Exploration: Pilot a fighter plane through an infinite, procedural world. Features a leading-target auto-aim system for hunting down balloons across a vast, changing landscape.
